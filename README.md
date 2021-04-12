@@ -31,5 +31,5 @@ https://dev.mysql.com/doc/refman/8.0/en/
 https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html
 
 4. Downloads
-https://dev.mysql.com/downloads/   (MySQl and Connector\J)
+https://dev.mysql.com/downloads/   (MySQl and Connector/J)
 https://www.dbf2002.com/dbf-converter/convert-dbf-to-sql.html  (database files converter, dbf->sql)
