@@ -16,3 +16,20 @@ Application loads the database into a relational database and connects to Java C
 Includes GUI which allows parameters to be put in. (and see results.)
 
 Flexible Queries:
+
+Resources Used:
+1. Learning about conecting databases and Java (JDBC)
+https://www.youtube.com/watch?v=3OrEsC-QjUA
+https://docs.oracle.com/cd/E11882_01/appdev.112/e12137/introduction.htm#TDPJD102
+https://www.javatpoint.com/steps-to-connect-to-the-database-in-java
+
+2. Writing SQL scripts/queries/using command line and workbench/ using the database
+https://dev.mysql.com/doc/refman/8.0/en/mysql-batch-commands.html
+https://dev.mysql.com/doc/refman/8.0/en/
+
+3. Writing code in Java to manipulate the database
+https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html
+
+4. Downloads
+https://dev.mysql.com/downloads/   (MySQl and Connector\J)
+https://www.dbf2002.com/dbf-converter/convert-dbf-to-sql.html  (database files converter, dbf->sql)
