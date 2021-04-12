@@ -1,5 +1,6 @@
-# JavaAssignment 
+# Data Explorer, Java Assigment
 Data Explorer.
+Connecting and using SQL Database through Java.
 A tool which shows interesting facts about the data set.
 
 About the Data set: 
