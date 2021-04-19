@@ -13,9 +13,18 @@ Contains 40 rows of sculptures/objects with their details under each column. Som
 
 Application loads the database into a relational database and connects to Java Code using JDBC.
 
-Includes GUI which allows parameters to be put in. (and see results.)
+Includes GUI class which displays:
+a label, prompting user to enter a Query for the database.
+a text field for the user input.
+two buttons - "Enter" to save the user input, "Display Results" to show results of query.
 
-Flexible Queries:
+Control class:
+Instansiate a "Gui" object, which allows the Gui to be displayed.
+
+JDBC class:
+Connects to the MySQL database and has multiple error-checking "try/catch" sections to display errors in case of no connection to database/no results from query.
+Loops through results of query row by row, printing the rows to the console.
+
 
 Resources Used:
 1. Learning about conecting databases and Java (JDBC)
