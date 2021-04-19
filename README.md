@@ -19,7 +19,7 @@ a text field for the user input.
 two buttons - "Enter" to save the user input, "Display Results" to show results of query.
 
 Control class:
-Instansiate a "Gui" object, which allows the Gui to be displayed.
+Instantiate a "Gui" object, which allows the Gui to be displayed.
 
 JDBC class:
 Connects to the MySQL database and has multiple error-checking "try/catch" sections to display errors in case of no connection to database/no results from query.
