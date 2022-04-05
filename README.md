@@ -1,4 +1,4 @@
-# Data Explorer, Java Assigment
+# Data Explorer, Java 
 Connecting and using SQL Database through Java.
 A tool which shows interesting facts about the data set.
 
